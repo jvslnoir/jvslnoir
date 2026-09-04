@@ -34,5 +34,9 @@ durante minha jornada de aprendizado em desenvolvimento de software.
 
 ##  Contato
 
-LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-v-santos-3629163ab
-Email: silasjoao93@gmail.com
+<div>
+<a href="https://www.instagram.com/_joaovsantss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
+<a href="mailto:silasjoao93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-v-santos-3629163ab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+</div>
+
